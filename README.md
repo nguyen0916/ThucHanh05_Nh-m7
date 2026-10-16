@@ -7,8 +7,8 @@ Bài thực hành tập trung vào việc tạo và quản lý các nội dung �
 | Tên File / Thư mục | Nhiệm vụ tương ứng | Mô tả nội dung |
 | :--- | :--- | :--- |
 | `BaoCao_NhiemVu1.pdf` | Nhiệm vụ 1.1, 1.2 | File báo cáo văn bản |
-| `Infographic.png` | Nhiệm vụ 2.1 | File hình ảnh Infographic thiết kế |
-| `Video_Multimedia.mp4` | Nhiệm vụ 2.2 | File video thực hành (hoặc đính kèm link Drive bên dưới) |
+| `Loi_ich_cong_nghe_so.png` | Nhiệm vụ 2.1 | File hình ảnh Infographic thiết kế |
+| `video_cong_nghe_so.mp4` | Nhiệm vụ 2.2 | File video thực hành (hoặc đính kèm link Drive bên dưới) |
 | `index.html` | Nhiệm vụ 3.1 | File HTML hiển thị nội dung đa phương tiện và thông tin bản quyền |
 ## 3. Trích dẫn nguồn AI (AI Attributions)
 Trong quá trình thực hiện bài thực hành này, các công cụ Trí tuệ nhân tạo (AI) đã được sử dụng nhằm hỗ trợ xây dựng ý tưởng và nội dung cụ thể như sau:
