@@ -12,7 +12,7 @@ Bài thực hành tập trung vào việc tạo và quản lý các nội dung �
 | `index.html` | Nhiệm vụ 3.1 | File HTML hiển thị nội dung đa phương tiện và thông tin bản quyền |
 ## 3. Trích dẫn nguồn AI (AI Attributions)
 Trong quá trình thực hiện bài thực hành này, các công cụ Trí tuệ nhân tạo (AI) đã được sử dụng nhằm hỗ trợ xây dựng ý tưởng và nội dung cụ thể như sau:
-* **Canva AI**: Sử dụng để hỗ trợ thiết kế hình ảnh, gợi ý bố cục và tạo các thành phần đồ họa cho file **Infographic (PNG)** ở Nhiệm vụ 2.1.
+* **Canva AI**: Sử dụng để hỗ trợ thiết kế hình ảnh, gợi ý bố cục và tạo các thành phần đồ họa cho file **Loi_ich_cong_nghe_so.png** ở Nhiệm vụ 2.1.
 * **Microsoft Copilot**: Sử dụng để tham khảo cấu trúc code HTML, sửa lỗi và tối ưu hóa nội dung hiển thị cho file **`index.html`** ở Nhiệm vụ 3.1.
 *  Link sản phẩm HTML: Lợi ích của công nghệ số | Infographic & Video
 *  Xem sản phẩm tại đây: https://quyenb2611273-svg.github.io/Nhom07_TH5/
